@@ -9,7 +9,7 @@
 
 ###
 
-<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+<img align="right" height="200" src="https://cdn.discordapp.com/attachments/941854431685799986/1287190171636465770/hi.gif?ex=66f0a4c3&is=66ef5343&hm=ba8915b3d15b19ce2e55aa44d3ee7cf2fe6270937590cc6f34854436c72b2491&">
 
 ###
 
@@ -37,3 +37,5 @@
 <br clear="both">
 
 ###
+
+![snake gif](https://github.com/angelo-rossini/angelo-rossini/blob/output/github-contribution-grid-snake.gif)
