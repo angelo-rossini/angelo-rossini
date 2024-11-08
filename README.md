@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=angelo-rossini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelo-rossini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img align="right" height="150" src="https://cdn.discordapp.com/attachments/941854431685799986/1287209151184900210/download.gif?ex=66f7f6b0&is=66f6a530&hm=a26208ee6ddad7b9ba643b4a038cc6e230140ba9568e2a2c066c6ffc0a910c2f&">
+  <img align="right" height="150" src="https://cdn.discordapp.com/attachments/941854431685799986/1287209151184900210/download.gif?ex=672eacf0&is=672d5b70&hm=4de54a37780f52aad01a6bf3d2a43619ed291eda47a81b872cf9149f6b5c0722&">
 </div>
 
 <div align="left">
